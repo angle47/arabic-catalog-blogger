@@ -165,7 +165,7 @@
         L = e.location,
         q = e.localStorage,
         D = {
-            direction: "ltr",
+            direction: "rtl",
             hash: Date.now(),
             url: L.protocol + "//" + L.host,
             name: "tabbed-toc",
